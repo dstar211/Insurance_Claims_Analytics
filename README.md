@@ -12,7 +12,7 @@ The insurance firm was managing a massive portfolio of **37,542 policies**, but 
 ---
 
 ## 🛠️ The Solution (Interactive Analytics)
-![Insurance Analytics Dashboard](./insurance_dashboard.png)
+![Insurance Analytics Dashboard](https://github.com/dstar211/Insurance_Claims_Analytics/blob/main/ha.png)
 *Figure 1: Comprehensive Insurance Claims Overview*
 
 I developed a centralized intelligence hub to track four critical KPIs:
